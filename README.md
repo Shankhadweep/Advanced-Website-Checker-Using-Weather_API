@@ -21,13 +21,13 @@ This is an advanced weather checking website built using HTML, CSS, and JavaScri
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Enter the location for which you want to check the weather.
-4. Press the "Check Weather" button to retrieve the weather information.
+4. Press the "<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="search"><g data-name="Layer 2"><path d="m20.71 19.29-3.4-3.39A7.92 7.92 0 0 0 19 11a8 8 0 1 0-8 8 7.92 7.92 0 0 0 4.9-1.69l3.39 3.4a1 1 0 0 0 1.42 0 1 1 0 0 0 0-1.42zM5 11a6 6 0 1 1 6 6 6 6 0 0 1-6-6z" data-name="search"></path></g></svg>" button to retrieve the weather information.
 5. Explore the detailed weather forecast provided on the webpage.
 
 ## Screenshots
 
-![Screenshot ](![weather](https://github.com/Shankhadweep/Advanced-Website-Checker-Using-Weather_API/assets/119057592/0e70a34b-9d0d-47b7-8919-d6426c63474b)
-)
+
+![weather](https://github.com/Shankhadweep/Advanced-Website-Checker-Using-Weather_API/assets/119057592/2a737a60-3ed4-4752-87ee-c28268e938ce)
 
 ## Credits
 
